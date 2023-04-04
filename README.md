@@ -1,3 +1,6 @@
+[![JS Actions](https://github.com/sap6160/training-actionscreate/actions/workflows/my-workflow.yml/badge.svg)](https://github.com/sap6160/training-actionscreate/actions/workflows/my-workflow.yml)
+
+
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
